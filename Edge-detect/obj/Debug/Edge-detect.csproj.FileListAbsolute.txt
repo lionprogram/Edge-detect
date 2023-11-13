@@ -1,0 +1,9 @@
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\bin\Debug\Edge-detect.exe.config
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\bin\Debug\Edge-detect.exe
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\bin\Debug\Edge-detect.pdb
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\obj\Debug\Edge-detect.csprojResolveAssemblyReference.cache
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\obj\Debug\Edge_detect.Form1.resources
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\obj\Debug\Edge_detect.Properties.Resources.resources
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\obj\Debug\Edge-detect.csproj.GenerateResource.Cache
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\obj\Debug\Edge-detect.exe
+c:\users\mahdi\documents\visual studio 2017\Projects\Edge-detect\Edge-detect\obj\Debug\Edge-detect.pdb
